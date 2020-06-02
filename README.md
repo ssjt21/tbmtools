@@ -24,9 +24,8 @@ pip install openpyxl==2.4.8
 │      title.conf       #存放导出文件表头信息的配置，字体大小，背景，颜色等
 │
 ├─reports               #导出文件的默认路径
-│      -1CentOS_7_4_MOA操作系统#000001_10.14.31.12.xlsx  
-│      CentOS_7_4_MOA操作系统#000001_10.14.31.12.xlsx
-│      MySql_5_1_南基SMAP数据库#000001_172.16.112.74.xlsx
+│ 
+│      MySql_5_1#000001_172.16.112.74.xlsx
 │
 └─templates            # 存放映射关系的data.json数据来自这里的模板
         Apache2.2.xlsx
